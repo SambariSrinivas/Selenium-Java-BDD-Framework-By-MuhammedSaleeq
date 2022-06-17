@@ -53,7 +53,7 @@
 <dependency>
 <groupId>com.vimalselvam</groupId>
 <artifactId>cucumber-extentsreport</artifactId>
-<version>3.0.2</version>
+<version>3.1.1</version>
 </dependency>
 <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-picocontainer -->
 		<dependency>
